@@ -1,4 +1,4 @@
-package com.learning.corejava.hackerankproblems;
+package com.learning.corejava.hackerankproblems.data_structures;
 
 import java.util.Scanner;
 
